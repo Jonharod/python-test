@@ -1,1 +1,4 @@
-print("Esto es python")
+# iniciando juego
+
+options = ("rock","paper","scissor")
+
